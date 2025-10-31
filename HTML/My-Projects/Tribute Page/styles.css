@@ -1,0 +1,23 @@
+
+main {
+  background-color:rgb(34, 131, 126);
+}
+#title {
+  background:linear-gradient( to right,rgb(54, 92, 54) 50%,white);
+}
+#img-div #image {
+ max-width:100%;
+  height:auto;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+  justify-content:center;
+}
+ol li {
+  margin-top:10px;
+  font-family:Cursive;
+}
+.quote{
+  text-align:center;
+}
+
